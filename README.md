@@ -94,3 +94,5 @@ Este projeto foi desenvolvido para fins educacionais durante estágio curricular
 ---
 
 _Projeto desenvolvido em 2022 durante estágio curricular do curso Técnico de Gestão e Programação de Sistemas Informáticos_
+
+⭐ Se este projeto te foi útil, considera dar uma estrela! ⭐
